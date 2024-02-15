@@ -98,7 +98,8 @@ void loop()
 
 ![image](https://github.com/madhi43/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/103943383/9e9bc379-3875-4718-8e3b-9ec31f1c794d)
 
-![image](https://github.com/madhi43/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/103943383/fc569d3a-d479-40e2-beae-53f37debd1e3)
+![image](https://github.com/madhi43/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/assets/103943383/7e647af1-d7cf-40da-807e-403e337e2d7b)
+
 
 
 
